@@ -11,6 +11,7 @@ Review paper
 3. [Surrounding Objects Detection and Tracking for Autonomous Driving Using LiDAR and Radar Fusion](papers/s10033-021-00630-y.pdf)
 4. [Object detection lidar and camera](papers/Fusion%20of%203D%20LIDAR%20and%20Camera%20Data%20for%20Object%20Detection%20in%20Autono%20(1).pdf)
 5. [A survey of LiDAR and camera fusion enhancement](papers/1-s2.0-S1877050921005767-main.pdf)
+6. [Ego-Motion Estimation and Dynamic Motion Separation from 3D Point](https://arxiv.org/pdf/2308.15357.pdf)
 
 ## PS
 After reading he paper please make a note of the following points:
