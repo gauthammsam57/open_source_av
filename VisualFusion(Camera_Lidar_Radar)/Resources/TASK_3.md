@@ -22,11 +22,13 @@ Kindly be a part of one of the groups, and find papers on the topics.
 2. [A survey of LiDAR and camera fusion enhancement](papers/1-s2.0-S1877050921005767-main.pdf)  - (Gautham In progress)
 3. [Fusion of LiDAR and camera sensor data for environment sensing in driverless vehicles](papers/Fusion_DeSilva_Double_Col.pdf)(Nawin Reading)
 4. [Lidar-Camera Fusion for Road Detection Using Fully Convolutional Neural Networks](papers/LIDAR-Camera_Fusion_for_Road_Detection.pdf) (Milind reading)
+5. [TransFusion: Robust LiDAR-Camera Fusion for 3D Object Detection with Transformers](https://arxiv.org/pdf/2203.11496) - (Gautham Reviewed)
 
 ## Group2: Radar-Camera
 1. [Radar and Camera Early Fusion for Vehicle Detection in Advanced Driver Assistance Systems](papers/Radar%20and%20Camera%20Early%20Fusion%20for%20Vehicle%20Detection%20in%20Advanced%20Driver%20Assistance%20Systems.pdf)
 2. [CenterFusion: Center-based Radar and Camera Fusion for 3D Object Detection](papers/Nabati_CenterFusion_Center-Based_Radar_and_Camera_Fusion_for_3D_Object_Detection_WACV_2021_paper.pdf)
 3. [RCM-Fusion: Radar-Camera Multi-Level Fusion for 3D Object Detection](papers/2307.10249.pdf)
+4. [Radar-Camera Fusion for Object Detection and Semantic Segmentation in Autonomous Driving: A Comprehensive Review](papers/Radar_Camera_Review_Paper.pdf) - (Vishal Reviewed)
 
 ## Group3: Lidar-Camera-Radar
 1. [FUTR3D: A Unified Sensor Fusion Framework for 3D Detection](papers/FUTR3D%20-%20A%20unified%20snsor%20fusion%20framework%20for%203D%20detection.pdf) - Mayank (reading)
